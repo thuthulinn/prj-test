@@ -32,7 +32,7 @@ public class PrimeNumberCheckerTest {
    @Parameterized.Parameters
    public static Collection primeNumbers() {
       return Arrays.asList(new Object[][] {
-         { 3, true },
+         { 6, true },
          { 15, false },
          { 19, true },
          { 22, false },
