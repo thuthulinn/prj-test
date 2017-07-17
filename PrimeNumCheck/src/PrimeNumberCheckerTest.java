@@ -34,7 +34,7 @@ public class PrimeNumberCheckerTest {
       return Arrays.asList(new Object[][] {
          { 6, true },
          { 15, false },
-         { 20, true },
+         { 30, true },
          { 22, false },
          { 23, true }
       });
